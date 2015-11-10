@@ -37,7 +37,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+@dropbox - gif @ https://www.dropbox.com/s/1uv73m4zbjexjav/HW3.gif?dl=0
+
+@dropbox - quicktimes video @ https://www.dropbox.com/s/n7vv6oegzwri5dt/HW3.mov?dl=0
+
+@imgur - gif @ http://imgur.com/L8nNjbn
+
+[twitter app](http://i.imgur.com/L8nNjbn.gifv)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
